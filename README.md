@@ -67,19 +67,19 @@ accuracy
 ```
 
 ## Output:
-![output](./v1.png)
+![output](v1.png)
 
-![output](./v2.png)
+![output](v2.png)
 
-![output](./v3.png)
+![output](v3.png)
 
-![output](./v4.png)
+![output](v4.png)
 
-![output](./v5.png)
+![output](v5.png)
 
-![output](./v6.png)
+![output](v6.png)
 
-![output](./v7.png)
+![output](v7.png)
 
 
 ## Result:
